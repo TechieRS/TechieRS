@@ -19,30 +19,33 @@
 
 ---
 
-### 🌱 I’m currently learning:
-- **C, C++, DSA**
+### 🌱 Currently Learning:
+- **C, C++, and Data Structures & Algorithms (DSA)**
 
-### 📫 How to reach me:
+### 📫 How to Reach Me:
 - **Email:** [ravibhushansharma730@gmail.com](mailto:ravibhushansharma730@gmail.com)
 
-### ⚡ Fun fact:
-- **I think I am a Developer**
+### ⚡ Fun Fact:
+- **I believe every line of code has a story to tell!**
 
 ---
 
-### Connect with me:
+### 🌐 Connect with Me:
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/techiers" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://github.com/techiers" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools:
+### 🛠 Languages & Tools:
 
-<p align="left">
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
@@ -62,13 +65,20 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=onedark&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=onedark" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&theme=onedark&locale=en&layout=compact" alt="Top Languages" />
 </p>
+
+---
+
+### 🚀 Quick Highlights:
+- 🌍 Based in **India**
+- 🎯 Aspiring to build impactful software solutions
+- 📘 Passionate about **open source** and **problem-solving**
