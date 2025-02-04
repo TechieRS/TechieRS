@@ -1,6 +1,5 @@
-```md
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ravi%20Bhushan%20Sharma%20🌻&width=800&height=400)](https://github.com/TechieRS/svg-banners)
-```
+
 
 <h1 align="center">Hi 👋, I'm Ravi Bhushan Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
