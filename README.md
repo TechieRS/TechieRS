@@ -1,5 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=gradient&text1=✨%20Ravi%20Bhushan%20Sharma%20✨&width=900&height=400&fontSize=50&textColor=ffffff)](https://github.com/TechieRS/svg-banners)
-
+[![SVG Banners](https://svg-banners.vercel.app/api?type=gradient&text1=✨%20Ravi%20Bhushan%20Sharma%20✨&width=900&height=400&fontSize=50&textColor=000000)](https://github.com/TechieRS/svg-banners)
 
 
 <h1 align="center">Hi 👋, I'm Ravi Bhushan Sharma</h1>
