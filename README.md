@@ -1,10 +1,6 @@
- 
-
 ```md
 [![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Ravi%20Bhushan%20Sharma%20🌻&width=800&height=400)](https://github.com/TechieRS/svg-banners)
 ```
-
-
 
 <h1 align="center">Hi 👋, I'm Ravi Bhushan Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
@@ -30,7 +26,7 @@
 ### 🌱 Currently Learning:
 - **C, C++, and Data Structures & Algorithms (DSA)**
 
-### 📫 How to Reach Me:
+### 👯 How to Reach Me:
 - **Email:** [ravibhushansharma730@gmail.com](mailto:ravibhushansharma730@gmail.com)
 
 ### ⚡ Fun Fact:
@@ -89,4 +85,4 @@
 ### 🚀 Quick Highlights:
 - 🌍 Based in **India**
 - 🎯 Aspiring to build impactful software solutions
-- 📘 Passionate about **open source** and **problem-solving**
+- 📚 Passionate about **open source** and **problem-solving**
