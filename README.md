@@ -26,6 +26,9 @@
 ## 🌱 Currently Learning:
 - 🏗 **C, C++, and Data Structures & Algorithms (DSA)**
 
+## 📂 My Portfolio:
+🔗 **Check out my portfolio here:** [Ravi Bhushan Sharma - Portfolio](https://github.com/TechieRS/Ravi-Portfolio)
+
 ## 📬 How to Reach Me:
 - 📧 **Email:** [ravibhushansharma730@gmail.com](mailto:ravibhushansharma730@gmail.com)
 
