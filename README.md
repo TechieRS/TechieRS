@@ -10,10 +10,12 @@
 ---
 
 ## 🚀 About Me
-- 🏗 **Currently Learning:** C, C++, and Data Structures & Algorithms (DSA)
-- 💡 **Fun Fact:** Every line of code tells a unique story!
-- 🎯 **Aspiring to:** Build impactful software solutions and contribute to open source.
-- 🔥 **Passionate About:** Problem-solving, coding, and continuous learning.
+✨ *Turning ideas into reality through code!* ✨  
+
+- 🎓 **Currently Learning:** C, C++, and Data Structures & Algorithms (DSA)  
+- 🎯 **Aspiring to:** Build impactful software solutions and contribute to open source.  
+- 💡 **Fun Fact:** Every line of code tells a unique story!  
+- 💻 **Portfolio:** [Visit My Portfolio 🌍](https://techiers.github.io/Ravi-Portfolio/)  
 
 ---
 
@@ -44,20 +46,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&theme=radical&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---
 
-✨ *Let's build something amazing together!* ✨
+🎯 *"Code is like humor. When you have to explain it, it’s bad." — Cory House*  
+
+✨ *Let's build something amazing together!* ✨  
