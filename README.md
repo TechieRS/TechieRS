@@ -1,4 +1,4 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)] 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg) 
 
 <h1 align="center"> नमस्ते (Namaste)🙏🏻, I'm Ravi Bhushan Sharma 👋</h1>
 <h3 align="center">🚀 Passionate Software Developer | Tech Enthusiast | Problem Solver</h3>
