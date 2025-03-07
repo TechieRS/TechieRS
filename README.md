@@ -15,7 +15,7 @@
 - 🎓 **Currently Learning:** C, C++, and Data Structures & Algorithms (DSA)  
 - 🎯 **Aspiring to:** Build impactful software solutions and contribute to open source.  
 - 💡 **Fun Fact:** Every line of code tells a unique story!  
-- 💻 **Portfolio:** [Visit My Portfolio 🌍](https://techiers.github.io/Ravi-Portfolio/)  
+- 💻 **Portfolio:** [Visit My Portfolio 🌍](https://techiers.github.io/Portfolio/)  
 
 ---
 
