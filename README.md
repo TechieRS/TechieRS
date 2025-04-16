@@ -51,9 +51,7 @@
 
 ---
 
----
 
----
 
 ---
 
@@ -73,12 +71,10 @@
 🏆 **Trophies**  
 <img src="https://github-profile-trophy.vercel.app/?username=techiers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="85%" alt="GitHub Trophies" />
 
-🛰️ **Contribution Activity**  
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=techiers&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="Contribution Graph" />
-
 </div>
 
 ---
+
 
 ## 📌 Quote of the Day  
 
