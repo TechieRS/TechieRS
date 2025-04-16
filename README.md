@@ -55,31 +55,30 @@
 
 ---
 
-## 📊✨ My GitHub Stats
-
-<p align="center">
-  📈&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" width="47%" alt="GitHub Stats" />
-
-  🔥&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=techiers&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" width="47%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  🧠&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiers&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="47%" alt="Top Languages" />
-
-  🏆&nbsp;&nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=techiers&theme=tokyonight&no-bg=true&no-frame=true&column=4&margin-w=10&margin-h=15" width="47%" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  🛰️&nbsp;&nbsp;
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techiers&theme=tokyo-night&hide_border=true&radius=10" alt="Contribution Graph" />
-</p>
-
 ---
 
+## 📊 GitHub Stats & Achievements
+
+<div align="center">
+
+📈 **Overall Stats**  
+<img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="60%" alt="GitHub Stats" />
+
+🔥 **Current Streak**  
+<img src="https://streak-stats.demolab.com?user=techiers&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="60%" alt="GitHub Streak" />
+
+📚 **Top Languages**  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiers&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages" />
+
+🏆 **Trophies**  
+<img src="https://github-profile-trophy.vercel.app/?username=techiers&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="85%" alt="GitHub Trophies" />
+
+🛰️ **Contribution Activity**  
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=techiers&theme=tokyo-night&hide_border=true&radius=12" width="100%" alt="Contribution Graph" />
+
+</div>
+
+---
 
 ## 📌 Quote of the Day  
 
