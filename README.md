@@ -51,21 +51,38 @@
 
 ---
 
-## 📊 GitHub Stats  
+---
+
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=radical&hide_border=true&border_radius=20&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=techiers&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=techiers&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
+<!-- Optional: Contribution Graph via GitHub Activity -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=techiers&theme=tokyo-night&bg_color=0d1117&color=9e9e9e&line=00bfff&point=ffffff&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
+<!-- Optional: Wakatime Stats (only if using wakatime) -->
+<!--
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=techiers&theme=radical&hide_border=true" />
+</p>
+-->
 
 ---
+
+
 
 ## 📌 Quote of the Day  
 
