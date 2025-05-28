@@ -16,7 +16,7 @@
 
 ✨ *Turning ideas into reality through code!* ✨  
 
-- 🎓 **Currently Learning:** C, C++, and Data Structures & Algorithms (DSA)  
+- 🎓 **Currently Learning:** C, C++, Python, and Data Structures & Algorithms (DSA)  
 - 🛠 **Skills in Progress:** Writing clean code, mastering core logic, and building efficient systems  
 - 🎯 **Aspiring to:** Build impactful software solutions and contribute to open source  
 - 💡 **Fun Fact:** Every line of code tells a unique story 📖  
@@ -45,13 +45,10 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
 </p>
-
----
-
-
 
 ---
 
@@ -74,7 +71,6 @@
 </div>
 
 ---
-
 
 ## 📌 Quote of the Day  
 
