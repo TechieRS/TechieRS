@@ -1,6 +1,6 @@
 <!-- MATRIX BACKGROUND -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix Background">
 </p>
 
 <h1 align="center">🙏🏻 नमस्ते, I'm <span style="color:#00bfff;">Ravi Bhushan Sharma</span> 👋</h1>
@@ -16,19 +16,22 @@
 
 ✨ *Turning ideas into reality through code!* ✨  
 
-- 🎓 **Currently Learning:** C, C++, Python, and Data Structures & Algorithms (DSA)  
-- 🛠 **Skills in Progress:** Writing clean code, mastering core logic, and building efficient systems  
-- 🎯 **Aspiring to:** Build impactful software solutions and contribute to open source  
-- 💡 **Fun Fact:** Every line of code tells a unique story 📖  
-- 🌍 **Portfolio:** [Visit My Portfolio](https://techiers.github.io/Portfolio/)  
+- 🎓 **Currently Learning:** C, C++, Python & DSA  
+- 💡 **Improving At:** Clean Code, Debugging, and Optimizing Performance  
+- 👨‍💻 **Contributor At:**  
+  - 🌟 [GSSOC '25](https://www.gssoc.girlscript.tech/)  
+  - 🌐 [Open Source Connect](https://www.osconnect.org/)  
+- 🎯 **Goals:** Build impactful software solutions and grow with open source  
+- 🌍 **Portfolio:** [View Portfolio](https://techiers.github.io/Portfolio/)  
+- 🧠 **Fun Fact:** I treat debugging like detective work 🔍  
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/techiers" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/techiers" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -46,9 +49,21 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" />
 </p>
+
+---
+
+## 👨‍💻 Open Source Contributions
+
+🎉 Proud Contributor at:
+
+- 🚀 **GSSOC '25** – GirlScript Summer of Code  
+- 🔗 **Open Source Connect** – Building and collaborating on community-driven projects
+
+> 🧑‍🤝‍🧑 Open to collaboration on cool projects and open-source initiatives!
 
 ---
 
@@ -72,14 +87,14 @@
 
 ---
 
-## 📌 Quote of the Day  
+## ✍️ Quote of the Day  
 
 > 💬 *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
 
 ---
 
-## 🚀 Let’s Build Something Amazing Together! 💻✨
+## 🔥 Let's Build Something Amazing Together!
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning...;Keep+Building...;Keep+Growing+💪" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Keep+Learning...;Keep+Building...;Keep+Growing+💪;Open+Source+For+All+❤️" />
 </p>
