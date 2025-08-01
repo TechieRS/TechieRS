@@ -17,12 +17,12 @@
 ✨ *Turning ideas into reality through code!* ✨  
 
 - 🎓 **Currently Learning:** C, C++, Python & DSA  
-- 🧠 **Sharpening:** Clean code practices, debugging, and core logic  
+- 🧠 **Sharpening:** Clean code, debugging, and algorithmic thinking  
 - 🤝 **Contributor At:**  
   - 🌟 [GSSOC '25 – GirlScript Summer of Code](https://www.gssoc.girlscript.tech/)  
   - 🌐 [Open Source Connect](https://www.osconnect.org/)  
-- 🌱 **Goal:** Build meaningful software and collaborate on open source  
-- 🌍 **Portfolio:** [techiers.github.io/Portfolio](https://techiers.github.io/Portfolio/)  
+- 🌱 **Goal:** Build meaningful software & grow through open source  
+- 🌍 **Portfolio:** [Portfolio](https://techiers.github.io/Portfolio/)  
 - 💡 **Fun Fact:** I treat debugging like detective work 🔍  
 
 ---
@@ -63,7 +63,7 @@
 - 🚀 **GSSOC '25 – GirlScript Summer of Code**  
 - 🔗 **Open Source Connect**  
 
-> ✨ Always open to collaboration on meaningful open-source projects!
+> ✨ Always open to collaborating on meaningful open-source projects!
 
 ---
 
@@ -74,8 +74,18 @@
 📈 **Overall Stats**  
 <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="60%" alt="GitHub Stats" />
 
-🔥 **Current Streak**  
+🔥 **Current Streak**
+
+<!-- Try dynamic version first -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
+
+<!-- Optional fallback: if dynamic image fails, use your own uploaded screenshot -->
+<!-- 
+<p>
+  <sub>If the above image doesn’t load, here's a preview:</sub><br />
+  <img src="https://raw.githubusercontent.com/techiers/techiers/main/assets/streak.png" width="60%" alt="GitHub Streak Fallback" />
+</p>
+-->
 
 📚 **Top Languages**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiers&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages" />
