@@ -17,13 +17,13 @@
 ✨ *Turning ideas into reality through code!* ✨  
 
 - 🎓 **Currently Learning:** C, C++, Python & DSA  
-- 💡 **Improving At:** Clean Code, Debugging, and Optimizing Performance  
-- 👨‍💻 **Contributor At:**  
-  - 🌟 [GSSOC '25](https://www.gssoc.girlscript.tech/)  
+- 🧠 **Sharpening:** Clean code practices, debugging, and core logic  
+- 🤝 **Contributor At:**  
+  - 🌟 [GSSOC '25 – GirlScript Summer of Code](https://www.gssoc.girlscript.tech/)  
   - 🌐 [Open Source Connect](https://www.osconnect.org/)  
-- 🎯 **Goals:** Build impactful software solutions and grow with open source  
-- 🌍 **Portfolio:** [View Portfolio](https://techiers.github.io/Portfolio/)  
-- 🧠 **Fun Fact:** I treat debugging like detective work 🔍  
+- 🌱 **Goal:** Build meaningful software and collaborate on open source  
+- 🌍 **Portfolio:** [techiers.github.io/Portfolio](https://techiers.github.io/Portfolio/)  
+- 💡 **Fun Fact:** I treat debugging like detective work 🔍  
 
 ---
 
@@ -60,10 +60,10 @@
 
 🎉 Proud Contributor at:
 
-- 🚀 **GSSOC '25** – GirlScript Summer of Code  
-- 🔗 **Open Source Connect** – Building and collaborating on community-driven projects
+- 🚀 **GSSOC '25 – GirlScript Summer of Code**  
+- 🔗 **Open Source Connect**  
 
-> 🧑‍🤝‍🧑 Open to collaboration on cool projects and open-source initiatives!
+> ✨ Always open to collaboration on meaningful open-source projects!
 
 ---
 
@@ -75,7 +75,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=techiers&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" width="60%" alt="GitHub Stats" />
 
 🔥 **Current Streak**  
-<img src="https://streak-stats.demolab.com?user=techiers&theme=tokyonight&hide_border=true&border_radius=12&date_format=j%20M%5B%20Y%5D" width="60%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=techiers&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="GitHub Streak" />
 
 📚 **Top Languages**  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiers&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="60%" alt="Top Languages" />
